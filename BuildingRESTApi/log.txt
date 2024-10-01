@@ -1,0 +1,10 @@
+1727789861976, 
+ GET, /api/users/ 1727789868304, 
+ GET, /api/users/1004 1727789921493, 
+ DELETE, /api/users/1 1727789937162, 
+ GET, /api/users/1 1727790717926, 
+ GET, /api/users/ 1727790754628, 
+ GET, /api/users/ 1727790790540, 
+ GET, /api/users/ 1727791133918, 
+ POST, /api/users 1727791665777, 
+ GET, /api/users/ 
